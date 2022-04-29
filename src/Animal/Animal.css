@@ -1,0 +1,14 @@
+.animal {
+  font-size: 16px;
+  height: 10px;
+  width: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+h4 {
+  margin: 5px;
+}
